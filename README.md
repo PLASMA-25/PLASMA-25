@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Plasma and I'm a  developer with a passion for crafting clean, efficient code and solving problems. Proficient in a variety of programming languages and technologies, with a focus on Machine Learning and Data Science domain. Strong collaborative skills, adept at working within agile teams. Continuously learning and adapting to new technologies to stay at the forefront of software development.</h2>
+<h2 align="left">Hi 👋! Myself Plasma and I'm a  developer with a passion for crafting clean, efficient code and solving problems. Proficient in a variety of programming languages and technologies, with a focus on Machine Learning and Data Science domain. Strong collaborative skills, adept at working within agile teams. Continuously learning and adapting to new technologies to stay at the forefront of software development.</h2>
 
 ###
 
