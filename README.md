@@ -58,6 +58,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -66,7 +82,7 @@
   <a href="https://www.linkedin.com/in/sarthak-2k/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/plasma25" target="_blank">
+  <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="sarthakdas.25k@gmail.com" target="_blank">
